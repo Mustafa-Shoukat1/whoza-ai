@@ -4,8 +4,8 @@
 export const TRADE_CITY_PAGES: Record<string, string[]> = {
   "for-builders":              ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
   "for-electricians":          ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
-  "for-gas-engineers":         ["edinburgh", "glasgow", "london"],
-  "for-heating-engineers":     ["edinburgh", "glasgow", "london", "manchester"],
+  "for-gas-engineers":         ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
+  "for-heating-engineers":     ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
   "for-plumbers":              ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
-  "for-roofers":               ["edinburgh", "glasgow", "london"],
+  "for-roofers":               ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
 }
