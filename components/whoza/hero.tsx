@@ -70,7 +70,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             className="font-sans text-[clamp(48px,8.5vw,112px)] font-extrabold leading-[0.95] tracking-[-0.045em] mb-6"
           >
-            <span className="block text-white">Never miss a</span>
+            <span className="block text-white">Never miss a{" "}</span>
             <span className="block text-[#09382b]">job again.</span>
           </motion.h1>
 
