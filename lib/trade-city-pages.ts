@@ -2,10 +2,10 @@
 // Regenerated automatically by scripts/gen-trade-cities.mjs
 // Run: npm run gen:trade-cities
 export const TRADE_CITY_PAGES: Record<string, string[]> = {
-  "for-builders":              ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
-  "for-electricians":          ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
+  "for-builders":              ["birmingham", "bristol", "edinburgh", "glasgow", "leeds", "liverpool", "london", "manchester"],
+  "for-electricians":          ["birmingham", "bristol", "edinburgh", "glasgow", "leeds", "liverpool", "london", "manchester"],
   "for-gas-engineers":         ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
   "for-heating-engineers":     ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
-  "for-plumbers":              ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
+  "for-plumbers":              ["birmingham", "bristol", "edinburgh", "glasgow", "leeds", "liverpool", "london", "manchester"],
   "for-roofers":               ["birmingham", "edinburgh", "glasgow", "london", "manchester"],
 }

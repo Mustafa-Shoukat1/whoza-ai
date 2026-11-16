@@ -119,7 +119,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     pageUrl(`/for-${slug}`, `app/for-${slug}/page.tsx`, { changeFrequency: 'weekly', priority: 0.9 })
   )
 
-  // City combo pages (30 live combinations)
+  // City combo pages (39 live combinations)
   const comboPages: MetadataRoute.Sitemap = []
   for (const [trade, cities] of Object.entries(TRADE_CITY_PAGES)) {
     const tradeSlug = trade.replace(/^for-/, "")
